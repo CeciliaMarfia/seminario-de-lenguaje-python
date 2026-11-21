@@ -9,7 +9,7 @@ Actividades, entregas y trabajo integrador del Seminario de Lenguaje Python (Fac
 - `act3porpythonplus/` a `act6porpythonplus/`: actividades de Python Plus en Jupyter Notebook.
 - `entrega1/`, `entrega2/`: entregas individuales.
 - `grupo22/`: trabajo integrador grupal: aplicación en Streamlit con análisis de datasets abiertos de Argentina.
-- `informeFinal/`: informe final.
+- `informe-final/`: informe final.
 
 ## Temas
 
